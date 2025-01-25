@@ -1,0 +1,4 @@
+// Example of JavaScript: Change text on button click
+function changeText() {
+    document.getElementById("about").innerHTML = "<h2>About Me (Updated)</h2><p>Now you know more about me!</p>";
+}
